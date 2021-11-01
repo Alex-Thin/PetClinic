@@ -1,1 +1,2 @@
 # PetClinic
+Development of the information system of veterinarian clinic in the programming language C# using WindowsForms for user interface. Allows user to work with created database: add, change, delete elements and create different reports. Database stores information about its clients, their pets, their appointments, medications, breeds, possible procedures etc.  Functionality depends on authorized user: veterinarian or manager.
